@@ -33,3 +33,9 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+.main-wrapper {
+  background: #fff;
+  padding: 60px;
+  padding-right: 300px;
+}
